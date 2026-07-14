@@ -40,4 +40,9 @@ This analysis was conducted using **Tableau**, leveraging the rich dataset from 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/spotify-music-insights-dashboard.git
+   git clone https://github.com/abhijeet454/Spotify_Music_Insights_Dashboard.git
+   ```
+2. **Open the Dashboard:**
+   - Install [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Reader](https://www.tableau.com/products/reader).
+   - Open the `assignment.twbx` file to interact with the dashboard.
+
